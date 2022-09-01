@@ -8,4 +8,4 @@ git clone https://github.com/ElHombreVerde4Chan/Binario.git
 
 cd Binario
 
-python binario numeros
+python 'binario numeros.py'
